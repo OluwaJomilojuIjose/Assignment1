@@ -1,0 +1,7 @@
+admin:adminpass
+user1:user1pass
+user2:user2pass
+Sam:Sam
+Tamia:Tamia
+Samuel:Samuel
+@typingstart:Sam
